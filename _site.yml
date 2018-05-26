@@ -11,3 +11,7 @@ navbar:
   right:
     - icon: fa-twitter fa-lg
       href: https://twitter.com/ 
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
