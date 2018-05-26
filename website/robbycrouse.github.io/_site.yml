@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Games"
+      href: games.html
   right:
     - icon: fa-twitter fa-lg
       href: https://twitter.com/ 
